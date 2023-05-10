@@ -1,0 +1,10 @@
+loud,7,0,0
+C9,6,1,0
+leviatan,4,3,0
+NRG,4,3,0
+furia,4,3,0
+EG,3,4,0
+100T,3,4,0
+sentinels,2,5,0
+MIBR,2,5,0
+KRU,0,7,0

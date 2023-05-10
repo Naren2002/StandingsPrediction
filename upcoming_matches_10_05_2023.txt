@@ -1,0 +1,10 @@
+furia,100T
+eg,MIBR
+kru,sentinels
+nrg,loud
+leviatan,C9
+sentinels,furia
+nrg,eg
+c9,kru
+leviatan,loud
+MIBR,100T
